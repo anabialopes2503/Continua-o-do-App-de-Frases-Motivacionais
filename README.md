@@ -22,4 +22,4 @@ Layout (Thayssa) - Entregue
 
 Criar as classes (Yasmim e Júlia) – Em andamento
 
-Nome para o aplicativo (todos os integrantes) – Em andamento
+Nome para o aplicativo (todos os integrantes) – Definido
