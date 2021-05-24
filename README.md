@@ -14,6 +14,12 @@ Demos o primeiro passo e no dia de hoje decidimos fazer as seguintes etapas:
 
 4-	Nome para o aplicativo; 
 
+**Nome do aplicativo:**
+
+
+Polisipo (em grego significa “pausa na dor”)
+
+
 **Relatório de Entrega:**
 
 Frases (Anna Gabriela) - Entregue
